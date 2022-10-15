@@ -1,0 +1,22 @@
+{
+  "name": "drewh-wolf-theme",
+  "displayName": "drewh-wolf-theme",
+  "publisher": "drewh",
+  "description": "Modified version of Night Wolf Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Drew's Custom Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Drew's Custom Theme-color-theme.json"
+      }
+    ]
+  }
+}
